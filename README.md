@@ -14,3 +14,5 @@ If you will encounter any troubles with this dot files - thats likely because of
 
 ## Preview available here
 [Youtube](https://youtu.be/dQw4w9WgXcQ?si=A_XEPDXDbvGVZA3R)
+
+## Software
