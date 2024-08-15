@@ -12,5 +12,5 @@ Nice to see you there
 
 If you will encounter any troubles with this dot files - thats likely because of hardware inconsistancy
 
-## Preview available there
+## Preview available here
 [Youtube](https://youtu.be/dQw4w9WgXcQ?si=A_XEPDXDbvGVZA3R)
