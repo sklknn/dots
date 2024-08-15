@@ -16,3 +16,9 @@ If you will encounter any troubles with this dot files - thats likely because of
 [Youtube](https://youtu.be/dQw4w9WgXcQ?si=A_XEPDXDbvGVZA3R)
 
 ## Software
+- Term Emulator - alacritty
+- Shell - fish
+- App Launcher - rofi
+- Status Bar - waybar
+
+all other software can be used as a default or with standart catppuccin themes
